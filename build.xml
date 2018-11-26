@@ -40,7 +40,7 @@
     -->
     
     <property name="project.version" value="1.0"/>
-    <property name="project.app" value="EdiromOnline-RWA"/>
+    <property name="project.app" value="EdiromOnline-BauDi"/>
     <property name="build.dir" value="build"/>
 
     <target name="build-plus">

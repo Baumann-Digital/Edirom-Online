@@ -220,7 +220,7 @@ of this software, even if advised of the possibility of such damage.
                       </xsl:call-template>
                     </xsl:element>
                   </xsl:when>
-                  <xsl:when test="@usage='rwa'">
+                  <xsl:when test="@usage='baudi'">
                     <xsl:call-template name="i18n">
                       <xsl:with-param name="word">Recommended when applicable</xsl:with-param>
                     </xsl:call-template>
